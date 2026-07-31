@@ -5,6 +5,7 @@
     src/
     ├── data/
     │   └── raw/
+    │   └── results/
     ├── models/
     ├── notebook/
     └── requirements.txt
@@ -17,6 +18,7 @@ de un modelo de pronóstico de recaudo.
 ### Carpetas
 
 -   **data/raw/**: datos de entrada.
+-   **data/results/**: Predicciones.
 -   **models/**: modelos entrenados (.pkl).
 -   **notebook/**: notebooks de EDA, modelado y funciones auxiliares.
 -   **requirements.txt**: dependencias del proyecto.
